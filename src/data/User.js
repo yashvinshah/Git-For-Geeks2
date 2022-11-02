@@ -146,6 +146,17 @@ const Users = {
       portfolio: "",
     },
   },
+   "yashvinshah": {
+    name: "Yashvi Shah",
+    branch: "AI&DS",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/yashvinshah",
+      instagram: "https://instagram.com/__yashvii",
+      linkedin: "",
+      portfolio: "",
+    },
+  },
   "MadAra-UcHiHa89": {
     name: "Aadil Saudagar",
     branch: "IT",
@@ -154,17 +165,6 @@ const Users = {
       github: "https://github.com/MadAra-UcHiHa89",
       instagram: "https://www.instagram.com/im_aadil_/?hl=en",
       linkedin: "https://www.linkedin.com/in/aadil-saudagar-7b467b1b1/",
-      portfolio: "",
-    },
-  },
-  "temp10": {
-    name: "Temp 10",
-    branch: "IT",
-    description: "Exploring | Learning",
-    links: {
-      github: "https://github.com/temp10",
-      instagram: "https://www.instagram.com/temp10/?hl=en",
-      linkedin: "https://www.linkedin.com/in/temp10/",
       portfolio: "",
     },
   },
